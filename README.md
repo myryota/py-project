@@ -14,3 +14,7 @@ The project has the following folder structure:
 - **images**: Here are the character images and backgrounds for the game.
 - **music**: Folder with music used in the game and menus.
 - **src**: This folder contains all the source code and classes that are used to create the game.
+  
+## Usage
+
+Download or copy all the files, run the main file locally and enjoy the game.
