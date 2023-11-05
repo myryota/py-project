@@ -1,16 +1,16 @@
-# Игра Файтинг для Двух Игроков
+# Fighting Game for Two Players
 
-Добро пожаловать в игру Файтинг для двух игроков! Это игра, где два игрока могут сразиться друг с другом в захватывающих боях.
+Welcome to the two-player Fighting game! This is a game where two players can compete against each other in exciting battles.
 
-## Описание
+## Description
 
-Эта игра предоставляет возможность игрокам сразиться друг с другом в файтинг-матчах. Игроки могут выбирать как персонажей так и локацию для сражения, управлять ими и использовать различные атаки и навыки, чтобы одолеть своего соперника.
+This game provides an opportunity for players to compete against each other in fighting matches. Players can choose both characters and locations for battle, control them and use various attacks and skills to defeat their opponent.
 
-## Структура проекта
+## Project structure
 
-Проект имеет следующую структуру папок:
+The project has the following folder structure:
 
-- **assets**: В этой папке хранятся изображения персонажей и другие игровые ресурсы.
-- **images**: Здесь находятся изображения персонажей и фоны для игры.
-- **music**: Папка с музыкой, используемой в игре и меню.
-- **src**: В этой папке находятся все исходные коды и классы, которые используются для создания игры.
+- **assets**: This folder stores character images and other game assets.
+- **images**: Here are the character images and backgrounds for the game.
+- **music**: Folder with music used in the game and menus.
+- **src**: This folder contains all the source code and classes that are used to create the game.
