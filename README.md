@@ -20,3 +20,19 @@ The project has the following folder structure:
 Download or copy all the files, run the main file locally. You will be in the main menu
 
 ![Menu](https://github.com/myryota/py-project/blob/dev/docs/1%20(3)%20(1).png)
+
+Press the button "Start Game" then choose a background:
+
+![Menu](https://github.com/myryota/py-project/blob/dev/docs/2.png)
+
+After that choose a character for the first and second player:
+
+![Menu](https://github.com/myryota/py-project/blob/dev/docs/3.png)
+
+Press Enter to start
+
+![Menu](https://github.com/myryota/py-project/blob/dev/docs/5.png)
+
+
+
+
