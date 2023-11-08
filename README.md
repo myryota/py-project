@@ -19,4 +19,4 @@ The project has the following folder structure:
 
 Download or copy all the files, run the main file locally. You will be in the main menu
 
-![Menu](https://github.com/myryota/py-project/tree/dev/docs/1(1)(3).png)
+![Menu]([https://github.com/myryota/py-project/tree/dev/docs/1(1)(3).png](https://github.com/myryota/py-project/blob/dev/docs/1%20(3)%20(1).png)https://github.com/myryota/py-project/blob/dev/docs/1%20(3)%20(1).png)
