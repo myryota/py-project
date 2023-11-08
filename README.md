@@ -18,4 +18,5 @@ The project has the following folder structure:
 ## Usage
 
 Download or copy all the files, run the main file locally. You will be in the main menu
-![Image alt](https://github.com/myryota/py-project/tree/dev/docs/1.png)
+
+![Menu](https://github.com/myryota/py-project/tree/dev/docs/1.png)
