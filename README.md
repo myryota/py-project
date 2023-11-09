@@ -59,9 +59,13 @@ Press Enter to start:
 First person сontrol:
 
 W - jump
+
 A - move left
+
 D - move right
+
 X - first attack
+
 C - second attack
 
 Second person сontrol:
