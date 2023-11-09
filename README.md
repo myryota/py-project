@@ -40,11 +40,11 @@ python3 main.py
 
 ## How to Play
 
-After you will see Menu:
+After you will see **Menu**:
 
 ![Menu](https://github.com/myryota/py-project/blob/dev/docs/1%20(3)%20(1).png)
 
-Press the button "Start Game" then choose a background:
+Press the button **Start Game** then choose a background:
 
 ![Menu](https://github.com/myryota/py-project/blob/dev/docs/2.png)
 
@@ -52,38 +52,39 @@ After that choose a character for the first and second player:
 
 ![Menu](https://github.com/myryota/py-project/blob/dev/docs/3.png)
 
-Press Enter to start:
+Press **Enter to start**:
 
 ![Menu](https://github.com/myryota/py-project/blob/dev/docs/5.png)
 
-First person сontrol:
+**First person сontrol:**
 
 
-W - jump
+**W** - jump
 
-A - move left
+**A** - move left
 
-D - move right
+**D** - move right
 
-X - first attack
+**X** - first attack
 
-C - second attack
+**C** - second attack
 
-Second person сontrol:
-
-
-Up Arrow - jump
-
-Left Arrow - move left
-
-Right Arrow - move right
-
-Num1 - first attack
-
-Num2 - second attack
+**Second person сontrol:**
 
 
-Enjoy The Game
+**Up Arrow** - jump
+
+**Left Arrow** - move left
+
+**Right Arrow** - move right
+
+**Num1** - first attack
+
+**Num2** - second attack
+
+
+***Enjoy The Game***
+
 
 ![Menu](https://github.com/myryota/py-project/blob/dev/docs/6.png)
 ![Menu](https://github.com/myryota/py-project/blob/dev/docs/7.png)
