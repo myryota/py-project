@@ -17,7 +17,30 @@ The project has the following folder structure:
   
 ## Usage
 
-Download or copy all the files, run the main file locally. You will be in the main menu
+There is a .deb package of Pygame for Python 3
+
+1. Add the PPA to your system sources:
+```
+sudo add-apt-repository ppa:thopiekar/pygame
+```
+2. Update the package list:
+```
+sudo apt-get update
+```
+3. Install the package:
+```
+sudo apt-get install python3-pygame
+``` 
+
+
+Download or copy all the files, run the main file locally:
+```
+python3 main.py
+```
+
+## How to Play
+
+After you will see Menu:
 
 ![Menu](https://github.com/myryota/py-project/blob/dev/docs/1%20(3)%20(1).png)
 
@@ -29,9 +52,32 @@ After that choose a character for the first and second player:
 
 ![Menu](https://github.com/myryota/py-project/blob/dev/docs/3.png)
 
-Press Enter to start
+Press Enter to start:
 
 ![Menu](https://github.com/myryota/py-project/blob/dev/docs/5.png)
+
+First person сontrol:
+
+W - jump
+A - move left
+D - move right
+X - first attack
+C - second attack
+
+Second person сontrol:
+
+Up Arrow - jump
+Left Arrow - move left
+Right Arrow - move right
+Num1 - first attack
+Num2 - second attack
+
+Enjoy The Game
+
+![Menu](https://github.com/myryota/py-project/blob/dev/docs/6.png)
+![Menu](https://github.com/myryota/py-project/blob/dev/docs/7.png)
+
+
 
 
 
