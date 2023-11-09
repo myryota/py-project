@@ -58,6 +58,7 @@ Press Enter to start:
 
 First person сontrol:
 
+
 W - jump
 
 A - move left
@@ -70,11 +71,17 @@ C - second attack
 
 Second person сontrol:
 
+
 Up Arrow - jump
+
 Left Arrow - move left
+
 Right Arrow - move right
+
 Num1 - first attack
+
 Num2 - second attack
+
 
 Enjoy The Game
 
