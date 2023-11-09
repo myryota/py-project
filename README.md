@@ -56,7 +56,7 @@ Press **Enter to start**:
 
 ![Menu](https://github.com/myryota/py-project/blob/dev/docs/5.png)
 
-**First person сontrol:**
+***First person сontrol:***
 
 
 **W** - jump
@@ -69,7 +69,7 @@ Press **Enter to start**:
 
 **C** - second attack
 
-**Second person сontrol:**
+***Second person сontrol:***
 
 
 **Up Arrow** - jump
